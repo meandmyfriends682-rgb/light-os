@@ -49,7 +49,7 @@ Light OS — Development Roadmap
 
 Version 0.x — Initial Development
 
-- 0.1 — Initial Release
+-✅ 0.1 — Initial Release
   
   - Linux kernel
   - BusyBox 1.37
@@ -58,7 +58,7 @@ Version 0.x — Initial Development
   - RAM-based root filesystem
   - Basic terminal commands
 
-- 0.2 — Terminal Improvements
+-✅ 0.2 — Terminal Improvements
   
   - Better terminal initialization
   - Improved shell experience
