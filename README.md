@@ -195,7 +195,7 @@ Project goal: A lightweight, practical Linux distribution with both a minimal te
 
 Version
 
-Current version: 0.1
+Current version: 0.2
 
 Status: Experimental
 
