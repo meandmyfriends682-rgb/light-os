@@ -65,7 +65,7 @@ Version 0.x — Initial Development
   - More built-in commands
   - Improved help and system information
 
-- 0.3 — System Utilities
+-✅ 0.3 — System Utilities
   
   - Additional command-line tools
   - Hardware information utility
@@ -195,7 +195,7 @@ Project goal: A lightweight, practical Linux distribution with both a minimal te
 
 Version
 
-Current version: 0.2
+Current version: 0.3
 
 Status: Experimental
 
