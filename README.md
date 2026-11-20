@@ -71,7 +71,7 @@ Version 0.x — Initial Development
   - Hardware information utility
   - Better system monitoring
 
-- 0.4 — Networking
+-✅ 0.4 — Networking
   
   - Basic networking support
   - Network configuration
