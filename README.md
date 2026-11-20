@@ -77,7 +77,7 @@ Version 0.x — Initial Development
   - Network configuration
   - Network diagnostic tools
 
-- 0.5 — Package Management
+-✅ 0.5 — Package Management
   
   - Lightweight package manager
   - Package installation and removal
