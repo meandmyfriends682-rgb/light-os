@@ -83,7 +83,7 @@ Version 0.x — Initial Development
   - Package installation and removal
   - Package information
 
-- 0.6 — Hardware Support
+-✅ 0.6 — Hardware Support
   
   - Improved hardware detection
   - Better device support
@@ -195,7 +195,7 @@ Project goal: A lightweight, practical Linux distribution with both a minimal te
 
 Version
 
-Current version: 0.3
+Current version: 0.6
 
 Status: Experimental
 
